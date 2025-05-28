@@ -52,9 +52,9 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:judith@example.com">judith@example.com</a></p>
+    <p>Email: <a href="mailto:ogechajudith069@gmail.com">ogechajudith069@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/ogechajudy" target="_blank">ogechajudy</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">My Profile</a></p>
+    <p>LinkedIn: <a href="https://judith ogecha/in/YOUR_LINK" target="_blank">judith ogecha</a></p>
   </section>
 
   <footer>
