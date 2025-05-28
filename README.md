@@ -24,7 +24,6 @@
       <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript (Basics)</li>
-      <li>Responsive Design</li>
       <li>Git & GitHub</li>
     </ul>
   </section>
